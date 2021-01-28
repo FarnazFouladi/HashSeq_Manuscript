@@ -1,0 +1,10 @@
+Number of Children is 196
+Number of Children with Iden 100% is 67
+Number of Children with Iden < 100 and >=99 is 102
+Number of Children with Iden < 99 and >=97 is 23
+Number of Children with Iden < 97 is 4
+Number of Parents is 255
+Number of Parents with Iden 100% is 194
+Number of Parents with Iden < 100 and >=99 is 34
+Number of Parents with Iden < 99 and >=97 is 21
+Number of Parents with Iden < 97 is 6

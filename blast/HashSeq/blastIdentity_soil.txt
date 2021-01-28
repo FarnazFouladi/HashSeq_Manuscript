@@ -1,0 +1,10 @@
+Number of Children is 10
+Number of Children with Iden 100% is 9
+Number of Children with Iden < 100 and >=99 is 1
+Number of Children with Iden < 99 and >=97 is 0
+Number of Children with Iden < 97 is 0
+Number of Parents is 39
+Number of Parents with Iden 100% is 37
+Number of Parents with Iden < 100 and >=99 is 1
+Number of Parents with Iden < 99 and >=97 is 1
+Number of Parents with Iden < 97 is 0
