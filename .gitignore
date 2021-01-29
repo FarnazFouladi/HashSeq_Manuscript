@@ -52,7 +52,7 @@ ParsedFiles
 Parsed*
 #*DADA2Table_norm*
 #*Dada2Reads.txt
-sequences.fasta
+#sequences.fasta
 #OneMismatchCluster.txt
 draft
 
