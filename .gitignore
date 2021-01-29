@@ -50,10 +50,10 @@ vignettes/*.pdf
 #Ignore big files
 ParsedFiles
 Parsed*
-*DADA2Table_norm*
-*Dada2Reads.txt
+#*DADA2Table_norm*
+#*Dada2Reads.txt
 sequences.fasta
-OneMismatchCluster.txt
+#OneMismatchCluster.txt
 draft
 
 
