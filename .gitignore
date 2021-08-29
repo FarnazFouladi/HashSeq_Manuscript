@@ -1,0 +1,33 @@
+# system file
+.DS_Store
+
+# common in java IDEs
+.classpath
+.project
+
+
+### The following items are taken from the github template R.gitignore
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+
+# RStudio files
+.Rproj.user/
+
+
+# R Environment Variables
+.Renviron
+
+#Ignore big files
+ParsedFiles
+Parsed*
+draft
+
+
