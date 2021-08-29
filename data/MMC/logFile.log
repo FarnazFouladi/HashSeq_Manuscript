@@ -1,0 +1,42 @@
+Jan 24, 2021 9:35:27 AM utils.MyLogger log
+INFO: /scratch/ffouladi/zymoPipeline/paired/primerRemoved/cut/Zymo-PC1.assembled.fastq has 128250 sequences
+Jan 24, 2021 9:35:28 AM utils.MyLogger log
+INFO: /scratch/ffouladi/zymoPipeline/paired/primerRemoved/cut/Zymo-PC3.assembled.fastq has 140309 sequences
+Jan 24, 2021 9:35:33 AM utils.MyLogger log
+INFO: /scratch/ffouladi/zymoPipeline/paired/primerRemoved/cut/Zymo-PC2.assembled.fastq has 113802 sequences
+Jan 24, 2021 9:35:33 AM utils.MyLogger log
+INFO: Number of singletons in ParsedZymo-PC3.txt are 20417
+Jan 24, 2021 9:35:33 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedZymo-PC3.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:35:33 AM utils.MyLogger log
+INFO: Number of singletons in ParsedZymo-PC1.txt are 20741
+Jan 24, 2021 9:35:33 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedZymo-PC1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:35:33 AM utils.MyLogger log
+INFO: Number of singletons in ParsedZymo-PC2.txt are 17211
+Jan 24, 2021 9:35:33 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedZymo-PC2.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:35:33 AM utils.MyLogger log
+INFO: Total abundance of all sequences after removing singletons:323992
+Jan 24, 2021 9:35:35 AM utils.MyLogger log
+INFO: Number of total children of cluster: 4164
+Jan 24, 2021 9:35:35 AM utils.MyLogger log
+INFO: Number of total parents of cluster: 2002
+Jan 24, 2021 9:35:35 AM utils.MyLogger log
+INFO: Number of total sequences with no mismatch: 1479
+Jan 24, 2021 9:35:36 AM utils.MyLogger log
+INFO: Pipeline ran successfully.
+Jan 24, 2021 9:35:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedZymo-PC3.txt are 20417
+Jan 24, 2021 9:35:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedZymo-PC3.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:35:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedZymo-PC1.txt are 20741
+Jan 24, 2021 9:35:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedZymo-PC1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:35:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedZymo-PC2.txt are 17211
+Jan 24, 2021 9:35:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedZymo-PC2.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:35:39 AM utils.MyLogger log
+INFO: Pipeline ran successfully.

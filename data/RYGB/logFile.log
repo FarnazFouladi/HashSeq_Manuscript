@@ -1,0 +1,722 @@
+Jan 24, 2021 9:35:28 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865116.assembled.fastq has 204684 sequences
+Jan 24, 2021 9:35:29 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865078.assembled.fastq has 167233 sequences
+Jan 24, 2021 9:35:32 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865134.assembled.fastq has 102207 sequences
+Jan 24, 2021 9:35:34 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865081.assembled.fastq has 111895 sequences
+Jan 24, 2021 9:35:36 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865115.assembled.fastq has 314321 sequences
+Jan 24, 2021 9:35:37 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865092.assembled.fastq has 441560 sequences
+Jan 24, 2021 9:35:40 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865124.assembled.fastq has 123573 sequences
+Jan 24, 2021 9:35:41 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865096.assembled.fastq has 214257 sequences
+Jan 24, 2021 9:35:43 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865121.assembled.fastq has 132006 sequences
+Jan 24, 2021 9:35:44 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865068.assembled.fastq has 166038 sequences
+Jan 24, 2021 9:35:45 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865084.assembled.fastq has 208278 sequences
+Jan 24, 2021 9:35:48 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865089.assembled.fastq has 136452 sequences
+Jan 24, 2021 9:35:51 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865105.assembled.fastq has 143319 sequences
+Jan 24, 2021 9:35:54 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865070.assembled.fastq has 163038 sequences
+Jan 24, 2021 9:35:55 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865097.assembled.fastq has 175473 sequences
+Jan 24, 2021 9:35:55 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865113.assembled.fastq has 220239 sequences
+Jan 24, 2021 9:35:56 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865077.assembled.fastq has 183316 sequences
+Jan 24, 2021 9:35:57 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865065.assembled.fastq has 223349 sequences
+Jan 24, 2021 9:35:58 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865069.assembled.fastq has 297224 sequences
+Jan 24, 2021 9:35:59 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865103.assembled.fastq has 201330 sequences
+Jan 24, 2021 9:36:00 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865075.assembled.fastq has 205138 sequences
+Jan 24, 2021 9:36:01 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865118.assembled.fastq has 201831 sequences
+Jan 24, 2021 9:36:01 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865132.assembled.fastq has 163678 sequences
+Jan 24, 2021 9:36:02 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865102.assembled.fastq has 166601 sequences
+Jan 24, 2021 9:36:05 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865090.assembled.fastq has 162337 sequences
+Jan 24, 2021 9:36:05 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865066.assembled.fastq has 178419 sequences
+Jan 24, 2021 9:36:08 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865127.assembled.fastq has 131263 sequences
+Jan 24, 2021 9:36:10 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865131.assembled.fastq has 127710 sequences
+Jan 24, 2021 9:36:11 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865104.assembled.fastq has 183081 sequences
+Jan 24, 2021 9:36:14 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865123.assembled.fastq has 112961 sequences
+Jan 24, 2021 9:36:17 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865119.assembled.fastq has 101463 sequences
+Jan 24, 2021 9:36:17 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865080.assembled.fastq has 188817 sequences
+Jan 24, 2021 9:36:20 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865091.assembled.fastq has 116048 sequences
+Jan 24, 2021 9:36:24 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865135.assembled.fastq has 149228 sequences
+Jan 24, 2021 9:36:26 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865087.assembled.fastq has 484665 sequences
+Jan 24, 2021 9:36:30 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865122.assembled.fastq has 136224 sequences
+Jan 24, 2021 9:36:33 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865099.assembled.fastq has 132145 sequences
+Jan 24, 2021 9:36:34 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865126.assembled.fastq has 164728 sequences
+Jan 24, 2021 9:36:35 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865101.assembled.fastq has 210714 sequences
+Jan 24, 2021 9:36:37 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865125.assembled.fastq has 350310 sequences
+Jan 24, 2021 9:36:40 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865109.assembled.fastq has 156264 sequences
+Jan 24, 2021 9:36:41 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865110.assembled.fastq has 249828 sequences
+Jan 24, 2021 9:36:42 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865106.assembled.fastq has 270316 sequences
+Jan 24, 2021 9:36:44 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865086.assembled.fastq has 124350 sequences
+Jan 24, 2021 9:36:48 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865120.assembled.fastq has 131213 sequences
+Jan 24, 2021 9:36:49 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865083.assembled.fastq has 244570 sequences
+Jan 24, 2021 9:36:51 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865129.assembled.fastq has 149688 sequences
+Jan 24, 2021 9:36:55 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865085.assembled.fastq has 132798 sequences
+Jan 24, 2021 9:37:00 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865100.assembled.fastq has 133755 sequences
+Jan 24, 2021 9:37:04 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865098.assembled.fastq has 163068 sequences
+Jan 24, 2021 9:37:04 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865133.assembled.fastq has 165176 sequences
+Jan 24, 2021 9:37:05 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865111.assembled.fastq has 176371 sequences
+Jan 24, 2021 9:37:06 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865088.assembled.fastq has 284018 sequences
+Jan 24, 2021 9:37:07 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865114.assembled.fastq has 192629 sequences
+Jan 24, 2021 9:37:08 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865108.assembled.fastq has 246446 sequences
+Jan 24, 2021 9:37:12 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865095.assembled.fastq has 150892 sequences
+Jan 24, 2021 9:37:15 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865072.assembled.fastq has 147068 sequences
+Jan 24, 2021 9:37:16 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865082.assembled.fastq has 255933 sequences
+Jan 24, 2021 9:37:17 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865130.assembled.fastq has 153970 sequences
+Jan 24, 2021 9:37:18 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865112.assembled.fastq has 222233 sequences
+Jan 24, 2021 9:37:20 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865073.assembled.fastq has 138834 sequences
+Jan 24, 2021 9:37:21 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865128.assembled.fastq has 182273 sequences
+Jan 24, 2021 9:37:22 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865107.assembled.fastq has 282273 sequences
+Jan 24, 2021 9:37:23 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865067.assembled.fastq has 190698 sequences
+Jan 24, 2021 9:37:26 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865076.assembled.fastq has 131410 sequences
+Jan 24, 2021 9:37:31 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865093.assembled.fastq has 894557 sequences
+Jan 24, 2021 9:37:32 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865117.assembled.fastq has 268723 sequences
+Jan 24, 2021 9:37:33 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865074.assembled.fastq has 335666 sequences
+Jan 24, 2021 9:37:34 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865071.assembled.fastq has 217055 sequences
+Jan 24, 2021 9:37:35 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865079.assembled.fastq has 254746 sequences
+Jan 24, 2021 9:37:40 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/RYGB_SRP113514/pearOutput/pairedReads/primerRemoved/cut200/SRR5865094.assembled.fastq has 146484 sequences
+Jan 24, 2021 9:37:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865115.txt are 61731
+Jan 24, 2021 9:37:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865115.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865127.txt are 40056
+Jan 24, 2021 9:37:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865127.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865076.txt are 52117
+Jan 24, 2021 9:37:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865076.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865075.txt are 26659
+Jan 24, 2021 9:37:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865075.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865096.txt are 70040
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865096.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865102.txt are 46820
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865102.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865112.txt are 59693
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865112.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865091.txt are 35293
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865091.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865106.txt are 70938
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865106.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865099.txt are 44346
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865099.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865067.txt are 51490
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865067.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865121.txt are 48721
+Jan 24, 2021 9:37:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865121.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865077.txt are 29627
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865077.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865073.txt are 38431
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865073.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865090.txt are 44479
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865090.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865069.txt are 87131
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865069.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865098.txt are 50895
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865098.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865071.txt are 37224
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865071.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865086.txt are 42554
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865086.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865108.txt are 89220
+Jan 24, 2021 9:37:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865108.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865080.txt are 48147
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865080.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865074.txt are 105986
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865074.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865135.txt are 41569
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865135.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865111.txt are 42781
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865111.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865072.txt are 33789
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865072.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865123.txt are 35118
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865123.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865079.txt are 50223
+Jan 24, 2021 9:37:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865079.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865100.txt are 43311
+Jan 24, 2021 9:37:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865100.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865109.txt are 52839
+Jan 24, 2021 9:37:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865109.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865116.txt are 52363
+Jan 24, 2021 9:37:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865116.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865118.txt are 54736
+Jan 24, 2021 9:37:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865118.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865092.txt are 138826
+Jan 24, 2021 9:37:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865092.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865093.txt are 240517
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865093.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865120.txt are 41516
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865120.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865110.txt are 37389
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865110.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865078.txt are 31570
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865078.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865124.txt are 37339
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865124.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865132.txt are 52227
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865132.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865065.txt are 48955
+Jan 24, 2021 9:37:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865065.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865081.txt are 29053
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865081.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865130.txt are 44704
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865130.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865113.txt are 48962
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865113.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865105.txt are 46700
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865105.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865119.txt are 32502
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865119.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865125.txt are 111342
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865125.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865068.txt are 37368
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865068.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865114.txt are 40815
+Jan 24, 2021 9:37:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865114.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865107.txt are 51649
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865107.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865083.txt are 35968
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865083.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865128.txt are 55543
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865128.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865084.txt are 34488
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865084.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865122.txt are 44007
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865122.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865095.txt are 41035
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865095.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865097.txt are 57573
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865097.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865101.txt are 48834
+Jan 24, 2021 9:37:47 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865101.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:48 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865133.txt are 53838
+Jan 24, 2021 9:37:48 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865133.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:48 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865087.txt are 69987
+Jan 24, 2021 9:37:48 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865087.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:48 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865126.txt are 52176
+Jan 24, 2021 9:37:48 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865126.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:48 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865104.txt are 64477
+Jan 24, 2021 9:37:48 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865104.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:48 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865088.txt are 55790
+Jan 24, 2021 9:37:48 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865088.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:48 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865117.txt are 44234
+Jan 24, 2021 9:37:48 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865117.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865094.txt are 47190
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865094.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865129.txt are 46171
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865129.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865085.txt are 42769
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865085.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865066.txt are 43126
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865066.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865089.txt are 48576
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865089.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865131.txt are 44867
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865131.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865082.txt are 41487
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865082.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865103.txt are 68921
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865103.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865134.txt are 30406
+Jan 24, 2021 9:37:49 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865134.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:50 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865070.txt are 42859
+Jan 24, 2021 9:37:50 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865070.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:50 AM utils.MyLogger log
+INFO: Total abundance of all sequences after removing singletons:10616375
+Jan 24, 2021 9:38:28 AM utils.MyLogger log
+INFO: Number of total children of cluster: 93708
+Jan 24, 2021 9:38:28 AM utils.MyLogger log
+INFO: Number of total parents of cluster: 58396
+Jan 24, 2021 9:38:28 AM utils.MyLogger log
+INFO: Number of total sequences with no mismatch: 45657
+Jan 24, 2021 9:38:28 AM utils.MyLogger log
+INFO: Pipeline ran successfully.
+Jan 24, 2021 9:38:37 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865115.txt are 61731
+Jan 24, 2021 9:38:37 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865115.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:37 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865127.txt are 40056
+Jan 24, 2021 9:38:37 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865127.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865076.txt are 52117
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865076.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865075.txt are 26659
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865075.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865096.txt are 70040
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865096.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865102.txt are 46820
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865102.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865112.txt are 59693
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865112.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865091.txt are 35293
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865091.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865106.txt are 70938
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865106.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865099.txt are 44346
+Jan 24, 2021 9:38:38 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865099.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865067.txt are 51490
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865067.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865121.txt are 48721
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865121.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865077.txt are 29627
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865077.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865073.txt are 38431
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865073.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865090.txt are 44479
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865090.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865069.txt are 87131
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865069.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865098.txt are 50895
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865098.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865071.txt are 37224
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865071.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865086.txt are 42554
+Jan 24, 2021 9:38:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865086.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865108.txt are 89220
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865108.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865080.txt are 48147
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865080.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865074.txt are 105986
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865074.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865135.txt are 41569
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865135.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865111.txt are 42781
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865111.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865072.txt are 33789
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865072.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865123.txt are 35118
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865123.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865079.txt are 50223
+Jan 24, 2021 9:38:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865079.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865100.txt are 43311
+Jan 24, 2021 9:38:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865100.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865109.txt are 52839
+Jan 24, 2021 9:38:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865109.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865116.txt are 52363
+Jan 24, 2021 9:38:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865116.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865118.txt are 54736
+Jan 24, 2021 9:38:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865118.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865092.txt are 138826
+Jan 24, 2021 9:38:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865092.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865093.txt are 240517
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865093.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865120.txt are 41516
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865120.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865110.txt are 37389
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865110.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865078.txt are 31570
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865078.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865124.txt are 37339
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865124.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865132.txt are 52227
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865132.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865065.txt are 48955
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865065.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865081.txt are 29053
+Jan 24, 2021 9:38:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865081.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865130.txt are 44704
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865130.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865113.txt are 48962
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865113.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865105.txt are 46700
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865105.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865119.txt are 32502
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865119.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865125.txt are 111342
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865125.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865068.txt are 37368
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865068.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865114.txt are 40815
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865114.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865107.txt are 51649
+Jan 24, 2021 9:38:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865107.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865083.txt are 35968
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865083.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865128.txt are 55543
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865128.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865084.txt are 34488
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865084.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865122.txt are 44007
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865122.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865095.txt are 41035
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865095.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865097.txt are 57573
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865097.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865101.txt are 48834
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865101.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865133.txt are 53838
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865133.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865087.txt are 69987
+Jan 24, 2021 9:38:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865087.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865126.txt are 52176
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865126.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865104.txt are 64477
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865104.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865088.txt are 55790
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865088.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865117.txt are 44234
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865117.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865094.txt are 47190
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865094.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865129.txt are 46171
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865129.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865085.txt are 42769
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865085.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865066.txt are 43126
+Jan 24, 2021 9:38:45 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865066.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865089.txt are 48576
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865089.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865131.txt are 44867
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865131.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865082.txt are 41487
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865082.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865103.txt are 68921
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865103.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865134.txt are 30406
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865134.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Number of singletons in ParsedSRR5865070.txt are 42859
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedSRR5865070.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:38:46 AM utils.MyLogger log
+INFO: Pipeline ran successfully.

@@ -1,0 +1,412 @@
+Jan 24, 2021 9:35:28 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456807_1.fastq has 252803 sequences
+Jan 24, 2021 9:35:31 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456792_1.fastq has 287867 sequences
+Jan 24, 2021 9:35:32 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456811_1.fastq has 269673 sequences
+Jan 24, 2021 9:35:33 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456797_1.fastq has 222248 sequences
+Jan 24, 2021 9:35:35 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456791_1.fastq has 268484 sequences
+Jan 24, 2021 9:35:36 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456806_1.fastq has 245744 sequences
+Jan 24, 2021 9:35:38 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456817_1.fastq has 230893 sequences
+Jan 24, 2021 9:35:39 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456790_1.fastq has 288652 sequences
+Jan 24, 2021 9:35:41 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456827_1.fastq has 209923 sequences
+Jan 24, 2021 9:35:42 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456818_1.fastq has 190058 sequences
+Jan 24, 2021 9:35:43 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456822_1.fastq has 190154 sequences
+Jan 24, 2021 9:35:44 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456812_1.fastq has 270808 sequences
+Jan 24, 2021 9:35:46 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456816_1.fastq has 273493 sequences
+Jan 24, 2021 9:35:47 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456798_1.fastq has 264579 sequences
+Jan 24, 2021 9:35:49 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456802_1.fastq has 273923 sequences
+Jan 24, 2021 9:35:50 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456803_1.fastq has 272178 sequences
+Jan 24, 2021 9:35:52 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456804_1.fastq has 260649 sequences
+Jan 24, 2021 9:35:53 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456829_1.fastq has 140489 sequences
+Jan 24, 2021 9:35:55 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456813_1.fastq has 286482 sequences
+Jan 24, 2021 9:35:56 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456795_1.fastq has 297449 sequences
+Jan 24, 2021 9:35:58 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456793_1.fastq has 224312 sequences
+Jan 24, 2021 9:35:59 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456808_1.fastq has 210817 sequences
+Jan 24, 2021 9:36:00 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456824_1.fastq has 205099 sequences
+Jan 24, 2021 9:36:02 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456799_1.fastq has 276014 sequences
+Jan 24, 2021 9:36:03 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456801_1.fastq has 190687 sequences
+Jan 24, 2021 9:36:04 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456821_1.fastq has 196009 sequences
+Jan 24, 2021 9:36:05 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456825_1.fastq has 42817 sequences
+Jan 24, 2021 9:36:07 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456815_1.fastq has 362534 sequences
+Jan 24, 2021 9:36:08 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456823_1.fastq has 201283 sequences
+Jan 24, 2021 9:36:10 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456796_1.fastq has 281004 sequences
+Jan 24, 2021 9:36:11 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456826_1.fastq has 177202 sequences
+Jan 24, 2021 9:36:12 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456805_1.fastq has 222173 sequences
+Jan 24, 2021 9:36:13 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456800_1.fastq has 256068 sequences
+Jan 24, 2021 9:36:15 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456820_1.fastq has 97726 sequences
+Jan 24, 2021 9:36:17 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456819_1.fastq has 258974 sequences
+Jan 24, 2021 9:36:18 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456809_1.fastq has 167045 sequences
+Jan 24, 2021 9:36:19 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456810_1.fastq has 275876 sequences
+Jan 24, 2021 9:36:20 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456828_1.fastq has 156080 sequences
+Jan 24, 2021 9:36:22 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456794_1.fastq has 301178 sequences
+Jan 24, 2021 9:36:23 AM utils.MyLogger log
+INFO: /nobackup/afodor_research/datasets/soil_PRJEB14409/forward/primerRemoved/cut/ERR1456814_1.fastq has 208761 sequences
+Jan 24, 2021 9:36:24 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456817_1.txt are 196226
+Jan 24, 2021 9:36:24 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456817_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:24 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456821_1.txt are 188974
+Jan 24, 2021 9:36:24 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456821_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:25 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456826_1.txt are 169786
+Jan 24, 2021 9:36:25 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456826_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:25 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456827_1.txt are 195491
+Jan 24, 2021 9:36:25 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456827_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:26 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456811_1.txt are 246093
+Jan 24, 2021 9:36:26 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456811_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:27 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456792_1.txt are 269711
+Jan 24, 2021 9:36:27 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456792_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:27 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456795_1.txt are 278091
+Jan 24, 2021 9:36:27 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456795_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:28 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456803_1.txt are 251811
+Jan 24, 2021 9:36:28 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456803_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:28 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456818_1.txt are 186795
+Jan 24, 2021 9:36:28 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456818_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:29 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456813_1.txt are 269451
+Jan 24, 2021 9:36:29 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456813_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:30 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456805_1.txt are 212344
+Jan 24, 2021 9:36:30 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456805_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:30 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456804_1.txt are 237555
+Jan 24, 2021 9:36:30 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456804_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:31 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456801_1.txt are 178739
+Jan 24, 2021 9:36:31 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456801_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:31 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456794_1.txt are 278603
+Jan 24, 2021 9:36:31 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456794_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:32 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456822_1.txt are 176574
+Jan 24, 2021 9:36:32 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456822_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:32 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456807_1.txt are 230592
+Jan 24, 2021 9:36:32 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456807_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:33 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456793_1.txt are 212201
+Jan 24, 2021 9:36:33 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456793_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:33 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456810_1.txt are 252065
+Jan 24, 2021 9:36:33 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456810_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:34 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456797_1.txt are 218834
+Jan 24, 2021 9:36:34 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456797_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:34 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456828_1.txt are 146414
+Jan 24, 2021 9:36:34 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456828_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:34 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456825_1.txt are 41594
+Jan 24, 2021 9:36:34 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456825_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:35 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456798_1.txt are 243624
+Jan 24, 2021 9:36:35 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456798_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:35 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456809_1.txt are 156413
+Jan 24, 2021 9:36:35 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456809_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:36 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456799_1.txt are 254195
+Jan 24, 2021 9:36:36 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456799_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:36 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456808_1.txt are 192381
+Jan 24, 2021 9:36:36 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456808_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:37 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456802_1.txt are 251170
+Jan 24, 2021 9:36:37 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456802_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:38 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456800_1.txt are 235888
+Jan 24, 2021 9:36:38 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456800_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:38 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456829_1.txt are 133869
+Jan 24, 2021 9:36:38 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456829_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:38 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456823_1.txt are 187684
+Jan 24, 2021 9:36:38 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456823_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456824_1.txt are 195827
+Jan 24, 2021 9:36:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456824_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:39 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456790_1.txt are 267762
+Jan 24, 2021 9:36:39 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456790_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:40 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456806_1.txt are 223649
+Jan 24, 2021 9:36:40 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456806_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456791_1.txt are 251057
+Jan 24, 2021 9:36:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456791_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:41 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456796_1.txt are 264596
+Jan 24, 2021 9:36:41 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456796_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456812_1.txt are 250311
+Jan 24, 2021 9:36:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456812_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:42 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456820_1.txt are 97166
+Jan 24, 2021 9:36:42 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456820_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456819_1.txt are 243281
+Jan 24, 2021 9:36:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456819_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:43 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456814_1.txt are 194768
+Jan 24, 2021 9:36:43 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456814_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456815_1.txt are 267335
+Jan 24, 2021 9:36:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456815_1.txt is 1 and their total abundances are 2
+Jan 24, 2021 9:36:44 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456816_1.txt are 257185
+Jan 24, 2021 9:36:44 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456816_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:36:45 AM utils.MyLogger log
+INFO: Total abundance of all sequences after removing singletons:702101
+Jan 24, 2021 9:37:08 AM utils.MyLogger log
+INFO: Number of total children of cluster: 20707
+Jan 24, 2021 9:37:08 AM utils.MyLogger log
+INFO: Number of total parents of cluster: 22288
+Jan 24, 2021 9:37:08 AM utils.MyLogger log
+INFO: Number of total sequences with no mismatch: 16866
+Jan 24, 2021 9:37:08 AM utils.MyLogger log
+INFO: Pipeline ran successfully.
+Jan 24, 2021 9:37:12 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456817_1.txt are 196226
+Jan 24, 2021 9:37:12 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456817_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:12 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456821_1.txt are 188974
+Jan 24, 2021 9:37:12 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456821_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:13 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456826_1.txt are 169786
+Jan 24, 2021 9:37:13 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456826_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:13 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456827_1.txt are 195491
+Jan 24, 2021 9:37:13 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456827_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:14 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456811_1.txt are 246093
+Jan 24, 2021 9:37:14 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456811_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:14 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456792_1.txt are 269711
+Jan 24, 2021 9:37:14 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456792_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:15 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456795_1.txt are 278091
+Jan 24, 2021 9:37:15 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456795_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:16 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456803_1.txt are 251811
+Jan 24, 2021 9:37:16 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456803_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:16 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456818_1.txt are 186795
+Jan 24, 2021 9:37:16 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456818_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:17 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456813_1.txt are 269451
+Jan 24, 2021 9:37:17 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456813_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:17 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456805_1.txt are 212344
+Jan 24, 2021 9:37:17 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456805_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:18 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456804_1.txt are 237555
+Jan 24, 2021 9:37:18 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456804_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:18 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456801_1.txt are 178739
+Jan 24, 2021 9:37:18 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456801_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:19 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456794_1.txt are 278603
+Jan 24, 2021 9:37:19 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456794_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:20 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456822_1.txt are 176574
+Jan 24, 2021 9:37:20 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456822_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:20 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456807_1.txt are 230592
+Jan 24, 2021 9:37:20 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456807_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:21 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456793_1.txt are 212201
+Jan 24, 2021 9:37:21 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456793_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:21 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456810_1.txt are 252065
+Jan 24, 2021 9:37:21 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456810_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:22 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456797_1.txt are 218834
+Jan 24, 2021 9:37:22 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456797_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:22 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456828_1.txt are 146414
+Jan 24, 2021 9:37:22 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456828_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:22 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456825_1.txt are 41594
+Jan 24, 2021 9:37:22 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456825_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:23 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456798_1.txt are 243624
+Jan 24, 2021 9:37:23 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456798_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:23 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456809_1.txt are 156413
+Jan 24, 2021 9:37:23 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456809_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:24 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456799_1.txt are 254195
+Jan 24, 2021 9:37:24 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456799_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:24 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456808_1.txt are 192381
+Jan 24, 2021 9:37:24 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456808_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:25 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456802_1.txt are 251170
+Jan 24, 2021 9:37:25 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456802_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:26 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456800_1.txt are 235888
+Jan 24, 2021 9:37:26 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456800_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:26 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456829_1.txt are 133869
+Jan 24, 2021 9:37:26 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456829_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:27 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456823_1.txt are 187684
+Jan 24, 2021 9:37:27 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456823_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:27 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456824_1.txt are 195827
+Jan 24, 2021 9:37:27 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456824_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:28 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456790_1.txt are 267762
+Jan 24, 2021 9:37:28 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456790_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:28 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456806_1.txt are 223649
+Jan 24, 2021 9:37:28 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456806_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:29 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456791_1.txt are 251057
+Jan 24, 2021 9:37:29 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456791_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:30 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456796_1.txt are 264596
+Jan 24, 2021 9:37:30 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456796_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:30 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456812_1.txt are 250311
+Jan 24, 2021 9:37:30 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456812_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:30 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456820_1.txt are 97166
+Jan 24, 2021 9:37:30 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456820_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:31 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456819_1.txt are 243281
+Jan 24, 2021 9:37:31 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456819_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:32 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456814_1.txt are 194768
+Jan 24, 2021 9:37:32 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456814_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:32 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456815_1.txt are 267335
+Jan 24, 2021 9:37:32 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456815_1.txt is 1 and their total abundances are 2
+Jan 24, 2021 9:37:33 AM utils.MyLogger log
+INFO: Number of singletons in ParsedERR1456816_1.txt are 257185
+Jan 24, 2021 9:37:33 AM utils.MyLogger log
+INFO: Number of sequence variants with N in ParsedERR1456816_1.txt is 0 and their total abundances are 0
+Jan 24, 2021 9:37:33 AM utils.MyLogger log
+INFO: Pipeline ran successfully.
