@@ -1,0 +1,351 @@
+# BLASTN 2.9.0+
+# Query: parent000001_child37
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000001_child37	FJ975996.1.1356	100.000	250	0	0	1	250	492	741	5.59e-129	462
+parent000001_child37	JN792459.1.1395	99.600	250	1	0	1	250	505	754	2.60e-127	457
+parent000001_child37	HG798501.1.1350	99.600	250	1	0	1	250	386	635	2.60e-127	457
+parent000001_child37	FJ975942.1.1358	99.600	250	1	0	1	250	488	737	2.60e-127	457
+parent000001_child37	FJ976008.1.1358	99.600	250	1	0	1	250	495	744	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000001_child204
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000001_child204	JN792459.1.1395	99.600	250	1	0	1	250	505	754	2.60e-127	457
+parent000001_child204	HG798501.1.1350	99.600	250	1	0	1	250	386	635	2.60e-127	457
+parent000001_child204	FJ975942.1.1358	99.600	250	1	0	1	250	488	737	2.60e-127	457
+parent000001_child204	FJ976008.1.1358	99.600	250	1	0	1	250	495	744	2.60e-127	457
+parent000001_child204	FJ976013.1.1360	99.600	250	1	0	1	250	497	746	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000002_child446
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000002_child446	KT873246.1.1201	99.600	250	1	0	1	250	496	745	2.60e-127	457
+parent000002_child446	KX880950.1.1206	99.600	250	1	0	1	250	507	756	2.60e-127	457
+parent000002_child446	KR632728.1.1209	99.600	250	1	0	1	250	311	560	2.60e-127	457
+parent000002_child446	JQ818210.1.1210	99.600	250	1	0	1	250	379	628	2.60e-127	457
+parent000002_child446	KX880948.1.1211	99.600	250	1	0	1	250	503	752	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000002_child492
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000002_child492	KT873246.1.1201	99.600	250	1	0	1	250	496	745	2.60e-127	457
+parent000002_child492	KX880950.1.1206	99.600	250	1	0	1	250	507	756	2.60e-127	457
+parent000002_child492	KR632728.1.1209	99.600	250	1	0	1	250	311	560	2.60e-127	457
+parent000002_child492	JQ818210.1.1210	99.600	250	1	0	1	250	379	628	2.60e-127	457
+parent000002_child492	KX880948.1.1211	99.600	250	1	0	1	250	503	752	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000002_child161
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000002_child161	DQ819155.1.1494	100.000	250	0	0	1	250	536	785	5.59e-129	462
+parent000002_child161	KT873246.1.1201	99.600	250	1	0	1	250	496	745	2.60e-127	457
+parent000002_child161	KX880950.1.1206	99.600	250	1	0	1	250	507	756	2.60e-127	457
+parent000002_child161	KR632728.1.1209	99.600	250	1	0	1	250	311	560	2.60e-127	457
+parent000002_child161	JQ818210.1.1210	99.600	250	1	0	1	250	379	628	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000002_child456
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000002_child456	EU460635.1.1403	100.000	250	0	0	1	250	531	780	5.59e-129	462
+parent000002_child456	HQ769262.1.1464	100.000	250	0	0	1	250	507	756	5.59e-129	462
+parent000002_child456	DQ315383.1.1410	99.600	250	1	0	1	250	533	782	7.23e-128	459
+parent000002_child456	KF928770.1.1518	99.600	250	1	0	1	250	534	783	7.23e-128	459
+parent000002_child456	KT873246.1.1201	99.600	250	1	0	1	250	496	745	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000003_child1
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000003_child1	KF509906.1.1302	100.000	250	0	0	1	250	462	711	5.59e-129	462
+parent000003_child1	CAAD010000082.36.1245	100.000	249	0	0	2	250	541	789	2.01e-128	460
+parent000003_child1	GU826684.1.1226	100.000	249	0	0	2	250	502	750	2.01e-128	460
+parent000003_child1	GU370902.1.1228	100.000	249	0	0	2	250	460	708	2.01e-128	460
+parent000003_child1	EU239106.1.1241	100.000	249	0	0	2	250	396	644	2.01e-128	460
+# BLASTN 2.9.0+
+# Query: parent000003_child478
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000003_child478	CAAD010000082.36.1245	99.600	250	1	0	1	250	540	789	2.60e-127	457
+parent000003_child478	GU826684.1.1226	99.600	250	1	0	1	250	501	750	2.60e-127	457
+parent000003_child478	GU370902.1.1228	99.600	250	1	0	1	250	459	708	2.60e-127	457
+parent000003_child478	EU239106.1.1241	99.600	250	1	0	1	250	395	644	2.60e-127	457
+parent000003_child478	AF130915.1.1252	99.600	250	1	0	1	250	292	541	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000003_child148
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000003_child148	CAAD010000082.36.1245	99.600	250	1	0	1	250	540	789	2.60e-127	457
+parent000003_child148	GU826684.1.1226	99.600	250	1	0	1	250	501	750	2.60e-127	457
+parent000003_child148	GU370902.1.1228	99.600	250	1	0	1	250	459	708	2.60e-127	457
+parent000003_child148	EU239106.1.1241	99.600	250	1	0	1	250	395	644	2.60e-127	457
+parent000003_child148	AF130915.1.1252	99.600	250	1	0	1	250	292	541	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000003_child443
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000003_child443	CAAD010000082.36.1245	99.600	250	1	0	1	250	540	789	2.60e-127	457
+parent000003_child443	GU826684.1.1226	99.600	250	1	0	1	250	501	750	2.60e-127	457
+parent000003_child443	GU370902.1.1228	99.600	250	1	0	1	250	459	708	2.60e-127	457
+parent000003_child443	EU239106.1.1241	99.600	250	1	0	1	250	395	644	2.60e-127	457
+parent000003_child443	AF130915.1.1252	99.600	250	1	0	1	250	292	541	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000003_child265
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000003_child265	CAAD010000082.36.1245	99.600	250	1	0	1	250	540	789	2.60e-127	457
+parent000003_child265	GU826684.1.1226	99.600	250	1	0	1	250	501	750	2.60e-127	457
+parent000003_child265	GU370902.1.1228	99.600	250	1	0	1	250	459	708	2.60e-127	457
+parent000003_child265	EU239106.1.1241	99.600	250	1	0	1	250	395	644	2.60e-127	457
+parent000003_child265	AF130915.1.1252	99.600	250	1	0	1	250	292	541	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000004_child31
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000004_child31	KU588099.1.1237	99.600	250	1	0	1	250	514	763	2.60e-127	457
+parent000004_child31	KC341749.1.1263	99.600	250	1	0	1	250	488	737	2.60e-127	457
+parent000004_child31	KU588051.1.1264	99.600	250	1	0	1	250	515	764	2.60e-127	457
+parent000004_child31	KU588098.1.1270	99.600	250	1	0	1	250	515	764	2.60e-127	457
+parent000004_child31	JQ425165.1.1298	99.600	250	1	0	1	250	515	764	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000004_child384
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000004_child384	JN882057.1.1511	100.000	250	0	0	1	250	538	787	5.59e-129	462
+parent000004_child384	KU588099.1.1237	99.600	250	1	0	1	250	514	763	2.60e-127	457
+parent000004_child384	KC341749.1.1263	99.600	250	1	0	1	250	488	737	2.60e-127	457
+parent000004_child384	KU588051.1.1264	99.600	250	1	0	1	250	515	764	2.60e-127	457
+parent000004_child384	KU588098.1.1270	99.600	250	1	0	1	250	515	764	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000004_child20
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000004_child20	KU588099.1.1237	99.600	250	1	0	1	250	514	763	2.60e-127	457
+parent000004_child20	KC341749.1.1263	99.600	250	1	0	1	250	488	737	2.60e-127	457
+parent000004_child20	KU588051.1.1264	99.600	250	1	0	1	250	515	764	2.60e-127	457
+parent000004_child20	KU588098.1.1270	99.600	250	1	0	1	250	515	764	2.60e-127	457
+parent000004_child20	JQ425165.1.1298	99.600	250	1	0	1	250	515	764	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000004_child421
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000004_child421	KU588099.1.1237	99.600	250	1	0	1	250	514	763	2.60e-127	457
+parent000004_child421	KC341749.1.1263	99.600	250	1	0	1	250	488	737	2.60e-127	457
+parent000004_child421	KU588051.1.1264	99.600	250	1	0	1	250	515	764	2.60e-127	457
+parent000004_child421	KU588098.1.1270	99.600	250	1	0	1	250	515	764	2.60e-127	457
+parent000004_child421	JQ425165.1.1298	99.600	250	1	0	1	250	515	764	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000004_child109
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000004_child109	KU588099.1.1237	99.600	250	1	0	1	250	514	763	2.60e-127	457
+parent000004_child109	KC341749.1.1263	99.600	250	1	0	1	250	488	737	2.60e-127	457
+parent000004_child109	KU588051.1.1264	99.600	250	1	0	1	250	515	764	2.60e-127	457
+parent000004_child109	KU588098.1.1270	99.600	250	1	0	1	250	515	764	2.60e-127	457
+parent000004_child109	JQ425165.1.1298	99.600	250	1	0	1	250	515	764	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000005_child63
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000005_child63	LC099978.1.1200	99.600	250	1	0	1	250	499	748	2.60e-127	457
+parent000005_child63	KY087983.1.1200	99.600	250	1	0	1	250	494	743	2.60e-127	457
+parent000005_child63	KX212261.1.1200	99.600	250	1	0	1	250	483	732	2.60e-127	457
+parent000005_child63	KX212250.1.1200	99.600	250	1	0	1	250	275	524	2.60e-127	457
+parent000005_child63	KX212248.1.1200	99.600	250	1	0	1	250	481	730	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000005_child1
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000005_child1	LC099978.1.1200	100.000	249	0	0	2	250	500	748	2.01e-128	460
+parent000005_child1	KY087983.1.1200	100.000	249	0	0	2	250	495	743	2.01e-128	460
+parent000005_child1	KX212261.1.1200	100.000	249	0	0	2	250	484	732	2.01e-128	460
+parent000005_child1	KX212250.1.1200	100.000	249	0	0	2	250	276	524	2.01e-128	460
+parent000005_child1	KX212248.1.1200	100.000	249	0	0	2	250	482	730	2.01e-128	460
+# BLASTN 2.9.0+
+# Query: parent000005_child2
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000005_child2	LC099978.1.1200	100.000	249	0	0	2	250	500	748	2.01e-128	460
+parent000005_child2	KY087983.1.1200	100.000	249	0	0	2	250	495	743	2.01e-128	460
+parent000005_child2	KX212261.1.1200	100.000	249	0	0	2	250	484	732	2.01e-128	460
+parent000005_child2	KX212250.1.1200	100.000	249	0	0	2	250	276	524	2.01e-128	460
+parent000005_child2	KX212248.1.1200	100.000	249	0	0	2	250	482	730	2.01e-128	460
+# BLASTN 2.9.0+
+# Query: parent000006_child11
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000006_child11	KF571471.1.1207	99.600	250	1	0	1	250	378	627	2.60e-127	457
+parent000006_child11	KY952643.1.1223	99.600	250	1	0	1	250	482	731	2.60e-127	457
+parent000006_child11	KF571464.1.1357	99.600	250	1	0	1	250	494	743	2.60e-127	457
+parent000006_child11	KF956739.1.1423	99.600	250	1	0	1	250	538	787	2.60e-127	457
+parent000006_child11	KP326349.1.1423	99.600	250	1	0	1	250	491	740	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000006_child63
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000006_child63	KF571471.1.1207	99.600	250	1	0	1	250	378	627	2.60e-127	457
+parent000006_child63	KY952643.1.1223	99.600	250	1	0	1	250	482	731	2.60e-127	457
+parent000006_child63	KF571464.1.1357	99.600	250	1	0	1	250	494	743	2.60e-127	457
+parent000006_child63	KF956739.1.1423	99.600	250	1	0	1	250	538	787	2.60e-127	457
+parent000006_child63	KP326349.1.1423	99.600	250	1	0	1	250	491	740	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000007_child34
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000007_child34	KX792217.1.1200	99.600	250	1	0	1	250	522	771	2.60e-127	457
+parent000007_child34	KY795327.1.1204	99.600	250	1	0	1	250	516	765	2.60e-127	457
+parent000007_child34	KU324904.1.1206	99.600	250	1	0	1	250	523	772	2.60e-127	457
+parent000007_child34	KY795330.1.1207	99.600	250	1	0	1	250	515	764	2.60e-127	457
+parent000007_child34	KY962894.1.1216	99.600	250	1	0	1	250	505	754	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000007_child7
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000007_child7	KX792217.1.1200	99.600	250	1	0	1	250	522	771	2.60e-127	457
+parent000007_child7	KY795327.1.1204	99.600	250	1	0	1	250	516	765	2.60e-127	457
+parent000007_child7	KU324904.1.1206	99.600	250	1	0	1	250	523	772	2.60e-127	457
+parent000007_child7	KY795330.1.1207	99.600	250	1	0	1	250	515	764	2.60e-127	457
+parent000007_child7	KY962894.1.1216	99.600	250	1	0	1	250	505	754	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000008_child9
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000008_child9	KP644774.1.1203	99.600	250	1	0	1	250	534	783	2.60e-127	457
+parent000008_child9	FJ981654.1.1204	99.600	250	1	0	1	250	474	723	2.60e-127	457
+parent000008_child9	NAII01000089.109.1317	99.600	250	1	0	1	250	538	787	2.60e-127	457
+parent000008_child9	KX583574.1.1213	99.600	250	1	0	1	250	265	514	2.60e-127	457
+parent000008_child9	KX454142.1.1216	99.600	250	1	0	1	250	488	737	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000008_child36
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000008_child36	KP644774.1.1203	99.600	250	1	0	1	250	534	783	2.60e-127	457
+parent000008_child36	FJ981654.1.1204	99.600	250	1	0	1	250	474	723	2.60e-127	457
+parent000008_child36	NAII01000089.109.1317	99.600	250	1	0	1	250	538	787	2.60e-127	457
+parent000008_child36	KX583574.1.1213	99.600	250	1	0	1	250	265	514	2.60e-127	457
+parent000008_child36	KX454142.1.1216	99.600	250	1	0	1	250	488	737	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: parent000009_child5
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000009_child5	EU471277.1.1390	99.600	250	1	0	1	250	531	780	2.60e-127	457
+parent000009_child5	HQ745117.1.1460	99.600	250	1	0	1	250	499	748	2.60e-127	457
+parent000009_child5	KT873246.1.1201	99.200	250	2	0	1	250	496	745	1.21e-125	451
+parent000009_child5	KX880950.1.1206	99.200	250	2	0	1	250	507	756	1.21e-125	451
+parent000009_child5	KR632728.1.1209	99.200	250	2	0	1	250	311	560	1.21e-125	451
+# BLASTN 2.9.0+
+# Query: parent000001
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000001	JN792459.1.1395	100.000	250	0	0	1	250	505	754	5.59e-129	462
+parent000001	HG798501.1.1350	100.000	250	0	0	1	250	386	635	5.59e-129	462
+parent000001	FJ975942.1.1358	100.000	250	0	0	1	250	488	737	5.59e-129	462
+parent000001	FJ976008.1.1358	100.000	250	0	0	1	250	495	744	5.59e-129	462
+parent000001	FJ976013.1.1360	100.000	250	0	0	1	250	497	746	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: parent000002
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000002	KT873246.1.1201	100.000	250	0	0	1	250	496	745	5.59e-129	462
+parent000002	KX880950.1.1206	100.000	250	0	0	1	250	507	756	5.59e-129	462
+parent000002	KR632728.1.1209	100.000	250	0	0	1	250	311	560	5.59e-129	462
+parent000002	JQ818210.1.1210	100.000	250	0	0	1	250	379	628	5.59e-129	462
+parent000002	KX880948.1.1211	100.000	250	0	0	1	250	503	752	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: parent000003
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000003	CAAD010000082.36.1245	100.000	250	0	0	1	250	540	789	5.59e-129	462
+parent000003	GU826684.1.1226	100.000	250	0	0	1	250	501	750	5.59e-129	462
+parent000003	GU370902.1.1228	100.000	250	0	0	1	250	459	708	5.59e-129	462
+parent000003	EU239106.1.1241	100.000	250	0	0	1	250	395	644	5.59e-129	462
+parent000003	AF130915.1.1252	100.000	250	0	0	1	250	292	541	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: parent000004
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000004	KU588099.1.1237	100.000	250	0	0	1	250	514	763	5.59e-129	462
+parent000004	KC341749.1.1263	100.000	250	0	0	1	250	488	737	5.59e-129	462
+parent000004	KU588051.1.1264	100.000	250	0	0	1	250	515	764	5.59e-129	462
+parent000004	KU588098.1.1270	100.000	250	0	0	1	250	515	764	5.59e-129	462
+parent000004	JQ425165.1.1298	100.000	250	0	0	1	250	515	764	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: parent000005
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000005	LC099978.1.1200	100.000	250	0	0	1	250	499	748	5.59e-129	462
+parent000005	KY087983.1.1200	100.000	250	0	0	1	250	494	743	5.59e-129	462
+parent000005	KX212261.1.1200	100.000	250	0	0	1	250	483	732	5.59e-129	462
+parent000005	KX212250.1.1200	100.000	250	0	0	1	250	275	524	5.59e-129	462
+parent000005	KX212248.1.1200	100.000	250	0	0	1	250	481	730	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: parent000006
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000006	KF571471.1.1207	100.000	250	0	0	1	250	378	627	5.59e-129	462
+parent000006	KY952643.1.1223	100.000	250	0	0	1	250	482	731	5.59e-129	462
+parent000006	KF571464.1.1357	100.000	250	0	0	1	250	494	743	5.59e-129	462
+parent000006	KF956739.1.1423	100.000	250	0	0	1	250	538	787	5.59e-129	462
+parent000006	KP326349.1.1423	100.000	250	0	0	1	250	491	740	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: parent000007
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000007	KX792217.1.1200	100.000	250	0	0	1	250	522	771	5.59e-129	462
+parent000007	KY795327.1.1204	100.000	250	0	0	1	250	516	765	5.59e-129	462
+parent000007	KU324904.1.1206	100.000	250	0	0	1	250	523	772	5.59e-129	462
+parent000007	KY795330.1.1207	100.000	250	0	0	1	250	515	764	5.59e-129	462
+parent000007	KY962894.1.1216	100.000	250	0	0	1	250	505	754	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: parent000008
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000008	KP644774.1.1203	100.000	250	0	0	1	250	534	783	5.59e-129	462
+parent000008	FJ981654.1.1204	100.000	250	0	0	1	250	474	723	5.59e-129	462
+parent000008	NAII01000089.109.1317	100.000	250	0	0	1	250	538	787	5.59e-129	462
+parent000008	KX583574.1.1213	100.000	250	0	0	1	250	265	514	5.59e-129	462
+parent000008	KX454142.1.1216	100.000	250	0	0	1	250	488	737	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: parent000009
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+parent000009	HQ745117.1.1460	100.000	250	0	0	1	250	499	748	5.59e-129	462
+parent000009	U92194.1.1550	99.600	250	1	0	1	250	539	788	2.60e-127	457
+parent000009	EU471277.1.1390	99.200	250	2	0	1	250	531	780	1.21e-125	451
+parent000009	KT873246.1.1201	98.800	250	3	0	1	250	496	745	5.63e-124	446
+parent000009	KX880950.1.1206	98.800	250	3	0	1	250	507	756	5.63e-124	446
+# BLAST processed 35 queries

@@ -1,0 +1,261 @@
+# BLASTN 2.9.0+
+# Query: seq1
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq1	JN792459.1.1395	100.000	250	0	0	1	250	505	754	5.59e-129	462
+seq1	HG798501.1.1350	100.000	250	0	0	1	250	386	635	5.59e-129	462
+seq1	FJ975942.1.1358	100.000	250	0	0	1	250	488	737	5.59e-129	462
+seq1	FJ976008.1.1358	100.000	250	0	0	1	250	495	744	5.59e-129	462
+seq1	FJ976013.1.1360	100.000	250	0	0	1	250	497	746	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: seq2
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq2	KT873246.1.1201	100.000	250	0	0	1	250	496	745	5.59e-129	462
+seq2	KX880950.1.1206	100.000	250	0	0	1	250	507	756	5.59e-129	462
+seq2	KR632728.1.1209	100.000	250	0	0	1	250	311	560	5.59e-129	462
+seq2	JQ818210.1.1210	100.000	250	0	0	1	250	379	628	5.59e-129	462
+seq2	KX880948.1.1211	100.000	250	0	0	1	250	503	752	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: seq3
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq3	CAAD010000082.36.1245	100.000	250	0	0	1	250	540	789	5.59e-129	462
+seq3	GU826684.1.1226	100.000	250	0	0	1	250	501	750	5.59e-129	462
+seq3	GU370902.1.1228	100.000	250	0	0	1	250	459	708	5.59e-129	462
+seq3	EU239106.1.1241	100.000	250	0	0	1	250	395	644	5.59e-129	462
+seq3	AF130915.1.1252	100.000	250	0	0	1	250	292	541	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: seq4
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq4	KU588099.1.1237	100.000	250	0	0	1	250	514	763	5.59e-129	462
+seq4	KC341749.1.1263	100.000	250	0	0	1	250	488	737	5.59e-129	462
+seq4	KU588051.1.1264	100.000	250	0	0	1	250	515	764	5.59e-129	462
+seq4	KU588098.1.1270	100.000	250	0	0	1	250	515	764	5.59e-129	462
+seq4	JQ425165.1.1298	100.000	250	0	0	1	250	515	764	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: seq5
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq5	LC099978.1.1200	100.000	250	0	0	1	250	499	748	5.59e-129	462
+seq5	KY087983.1.1200	100.000	250	0	0	1	250	494	743	5.59e-129	462
+seq5	KX212261.1.1200	100.000	250	0	0	1	250	483	732	5.59e-129	462
+seq5	KX212250.1.1200	100.000	250	0	0	1	250	275	524	5.59e-129	462
+seq5	KX212248.1.1200	100.000	250	0	0	1	250	481	730	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: seq6
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq6	KF571471.1.1207	100.000	250	0	0	1	250	378	627	5.59e-129	462
+seq6	KY952643.1.1223	100.000	250	0	0	1	250	482	731	5.59e-129	462
+seq6	KF571464.1.1357	100.000	250	0	0	1	250	494	743	5.59e-129	462
+seq6	KF956739.1.1423	100.000	250	0	0	1	250	538	787	5.59e-129	462
+seq6	KP326349.1.1423	100.000	250	0	0	1	250	491	740	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: seq7
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq7	CAAD010000082.36.1245	99.600	250	1	0	1	250	540	789	2.60e-127	457
+seq7	GU826684.1.1226	99.600	250	1	0	1	250	501	750	2.60e-127	457
+seq7	GU370902.1.1228	99.600	250	1	0	1	250	459	708	2.60e-127	457
+seq7	EU239106.1.1241	99.600	250	1	0	1	250	395	644	2.60e-127	457
+seq7	AF130915.1.1252	99.600	250	1	0	1	250	292	541	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: seq8
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq8	KX792217.1.1200	100.000	250	0	0	1	250	522	771	5.59e-129	462
+seq8	KY795327.1.1204	100.000	250	0	0	1	250	516	765	5.59e-129	462
+seq8	KU324904.1.1206	100.000	250	0	0	1	250	523	772	5.59e-129	462
+seq8	KY795330.1.1207	100.000	250	0	0	1	250	515	764	5.59e-129	462
+seq8	KY962894.1.1216	100.000	250	0	0	1	250	505	754	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: seq9
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq9	KP644774.1.1203	100.000	250	0	0	1	250	534	783	5.59e-129	462
+seq9	FJ981654.1.1204	100.000	250	0	0	1	250	474	723	5.59e-129	462
+seq9	NAII01000089.109.1317	100.000	250	0	0	1	250	538	787	5.59e-129	462
+seq9	KX583574.1.1213	100.000	250	0	0	1	250	265	514	5.59e-129	462
+seq9	KX454142.1.1216	100.000	250	0	0	1	250	488	737	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: seq10
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq10	JN792459.1.1395	99.600	250	1	0	1	250	505	754	2.60e-127	457
+seq10	HG798501.1.1350	99.600	250	1	0	1	250	386	635	2.60e-127	457
+seq10	FJ975942.1.1358	99.600	250	1	0	1	250	488	737	2.60e-127	457
+seq10	FJ976008.1.1358	99.600	250	1	0	1	250	495	744	2.60e-127	457
+seq10	FJ976013.1.1360	99.600	250	1	0	1	250	497	746	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: seq11
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq11	DQ819155.1.1494	100.000	250	0	0	1	250	536	785	5.59e-129	462
+seq11	KT873246.1.1201	99.600	250	1	0	1	250	496	745	2.60e-127	457
+seq11	KX880950.1.1206	99.600	250	1	0	1	250	507	756	2.60e-127	457
+seq11	KR632728.1.1209	99.600	250	1	0	1	250	311	560	2.60e-127	457
+seq11	JQ818210.1.1210	99.600	250	1	0	1	250	379	628	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: seq12
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq12	CAAD010000082.36.1245	99.600	250	1	0	1	250	540	789	2.60e-127	457
+seq12	GU826684.1.1226	99.600	250	1	0	1	250	501	750	2.60e-127	457
+seq12	GU370902.1.1228	99.600	250	1	0	1	250	459	708	2.60e-127	457
+seq12	EU239106.1.1241	99.600	250	1	0	1	250	395	644	2.60e-127	457
+seq12	AF130915.1.1252	99.600	250	1	0	1	250	292	541	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: seq13
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq13	KU588099.1.1237	99.600	250	1	0	1	250	514	763	2.60e-127	457
+seq13	KC341749.1.1263	99.600	250	1	0	1	250	488	737	2.60e-127	457
+seq13	KU588051.1.1264	99.600	250	1	0	1	250	515	764	2.60e-127	457
+seq13	KU588098.1.1270	99.600	250	1	0	1	250	515	764	2.60e-127	457
+seq13	JQ425165.1.1298	99.600	250	1	0	1	250	515	764	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: seq14
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq14	LC099978.1.1200	99.600	250	1	0	1	250	499	748	2.60e-127	457
+seq14	KY087983.1.1200	99.600	250	1	0	1	250	494	743	2.60e-127	457
+seq14	KX212261.1.1200	99.600	250	1	0	1	250	483	732	2.60e-127	457
+seq14	KX212250.1.1200	99.600	250	1	0	1	250	275	524	2.60e-127	457
+seq14	KX212248.1.1200	99.600	250	1	0	1	250	481	730	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: seq15
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq15	KF571471.1.1207	99.600	250	1	0	1	250	378	627	2.60e-127	457
+seq15	KY952643.1.1223	99.600	250	1	0	1	250	482	731	2.60e-127	457
+seq15	KF571464.1.1357	99.600	250	1	0	1	250	494	743	2.60e-127	457
+seq15	KF956739.1.1423	99.600	250	1	0	1	250	538	787	2.60e-127	457
+seq15	KP326349.1.1423	99.600	250	1	0	1	250	491	740	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: seq16
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq16	KP644774.1.1203	99.600	250	1	0	1	250	534	783	2.60e-127	457
+seq16	FJ981654.1.1204	99.600	250	1	0	1	250	474	723	2.60e-127	457
+seq16	NAII01000089.109.1317	99.600	250	1	0	1	250	538	787	2.60e-127	457
+seq16	KX583574.1.1213	99.600	250	1	0	1	250	265	514	2.60e-127	457
+seq16	KX454142.1.1216	99.600	250	1	0	1	250	488	737	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: seq17
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq17	KX792217.1.1200	99.600	250	1	0	1	250	522	771	2.60e-127	457
+seq17	KY795327.1.1204	99.600	250	1	0	1	250	516	765	2.60e-127	457
+seq17	KU324904.1.1206	99.600	250	1	0	1	250	523	772	2.60e-127	457
+seq17	KY795330.1.1207	99.600	250	1	0	1	250	515	764	2.60e-127	457
+seq17	KY962894.1.1216	99.600	250	1	0	1	250	505	754	2.60e-127	457
+# BLASTN 2.9.0+
+# Query: seq18
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq18	JQ032254.1.1200	100.000	250	0	0	1	250	500	749	5.59e-129	462
+seq18	AY664116.1.1211	100.000	250	0	0	1	250	477	726	5.59e-129	462
+seq18	AY726931.1.1232	100.000	250	0	0	1	250	478	727	5.59e-129	462
+seq18	FJ666205.1.1235	100.000	250	0	0	1	250	260	509	5.59e-129	462
+seq18	CU915207.1.1248	100.000	250	0	0	1	250	487	736	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: seq19
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq19	EU771633.1.1413	93.145	248	16	1	3	250	544	790	5.84e-99	363
+seq19	EU470514.1.1399	92.742	248	17	1	3	250	534	780	2.71e-97	357
+seq19	EU472724.1.1401	92.742	248	17	1	3	250	534	780	2.71e-97	357
+seq19	EU778512.1.1403	92.742	248	17	1	3	250	534	780	2.71e-97	357
+seq19	EU771597.1.1411	92.430	251	17	2	1	250	541	790	2.71e-97	357
+# BLASTN 2.9.0+
+# Query: seq20
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq20	KU961724.1.1525	90.323	248	23	1	4	250	555	802	2.75e-87	324
+seq20	KU961712.1.1527	90.323	248	23	1	4	250	555	802	2.75e-87	324
+seq20	KF835768.1.1391	90.000	250	23	2	2	250	473	721	9.90e-87	322
+seq20	EU778463.1.1401	89.600	250	26	0	1	250	531	780	1.28e-85	318
+seq20	HQ848268.1.1410	89.960	249	22	3	4	250	496	743	1.28e-85	318
+# BLASTN 2.9.0+
+# Query: seq21
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq21	EU375152.1.1207	100.000	250	0	0	1	250	525	774	5.59e-129	462
+seq21	KR140263.1.1386	100.000	250	0	0	1	250	470	719	5.59e-129	462
+seq21	EU647558.1.1390	100.000	250	0	0	1	250	479	728	5.59e-129	462
+seq21	JX531113.1.1427	100.000	250	0	0	1	250	480	729	5.59e-129	462
+seq21	JX525777.1.1434	100.000	250	0	0	1	250	489	738	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: seq22
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq22	KX936983.1.1445	92.800	250	15	3	1	249	472	719	7.55e-98	359
+seq22	KX937213.1.1446	92.800	250	15	3	1	249	473	720	7.55e-98	359
+seq22	KX937015.1.1447	92.800	250	15	3	1	249	472	719	7.55e-98	359
+seq22	KX426479.1.1317	92.400	250	16	3	1	249	404	651	3.51e-96	353
+seq22	KX937208.1.1445	92.000	250	17	3	1	249	472	719	1.63e-94	348
+# BLASTN 2.9.0+
+# Query: seq23
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq23	KU845393.1.1428	100.000	250	0	0	1	250	497	746	5.59e-129	462
+seq23	JQ661132.1.1382	98.400	250	4	0	1	250	475	724	2.62e-122	440
+seq23	KF268904.1.1396	98.400	250	4	0	1	250	481	730	2.62e-122	440
+seq23	KU719511.1.1441	98.400	250	4	0	1	250	515	764	2.62e-122	440
+seq23	KY190797.1.1451	98.400	250	4	0	1	250	509	758	2.62e-122	440
+# BLASTN 2.9.0+
+# Query: seq24
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq24	FN821682.1.1287	100.000	250	0	0	1	250	447	696	5.59e-129	462
+seq24	KC493254.1.1368	100.000	250	0	0	1	250	461	710	5.59e-129	462
+seq24	KC469100.1.1375	100.000	250	0	0	1	250	435	684	5.59e-129	462
+seq24	GU061072.1.1385	100.000	250	0	0	1	250	457	706	5.59e-129	462
+seq24	JX529261.1.1388	100.000	250	0	0	1	250	433	682	5.59e-129	462
+# BLASTN 2.9.0+
+# Query: seq25
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq25	HQ745117.1.1460	99.580	238	1	0	13	250	555	792	1.22e-120	435
+seq25	EU471277.1.1390	99.160	238	2	0	13	250	587	824	5.67e-119	429
+seq25	GAIQ01048712.3375.4897	97.600	250	6	0	1	250	575	824	5.67e-119	429
+seq25	U92194.1.1550	99.160	238	2	0	13	250	595	832	5.67e-119	429
+seq25	KT873246.1.1201	99.156	237	2	0	14	250	553	789	2.04e-118	427
+# BLASTN 2.9.0+
+# Query: seq26
+# Database: /Users/farnazfouladi/database/SILVA/silva132
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+seq26	JX854404.1.1235	100.000	250	0	0	1	250	452	701	5.59e-129	462
+seq26	KM033234.1.1281	100.000	250	0	0	1	250	424	673	5.59e-129	462
+seq26	AJ936962.1.1329	100.000	250	0	0	1	250	488	737	5.59e-129	462
+seq26	AY241561.1.1380	100.000	250	0	0	1	250	506	755	5.59e-129	462
+seq26	AY317149.1.1391	100.000	250	0	0	1	250	491	740	5.59e-129	462
+# BLAST processed 26 queries

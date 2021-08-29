@@ -1,0 +1,10 @@
+Number of Children is 775
+Number of Children with Iden 100% is 68
+Number of Children with Iden < 100 and >=99 is 400
+Number of Children with Iden < 99 and >=97 is 195
+Number of Children with Iden < 97 is 112
+Number of Parents is 530
+Number of Parents with Iden 100% is 222
+Number of Parents with Iden < 100 and >=99 is 191
+Number of Parents with Iden < 99 and >=97 is 72
+Number of Parents with Iden < 97 is 45

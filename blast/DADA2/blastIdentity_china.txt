@@ -1,0 +1,5 @@
+Number of sequence variants is 4974
+Number of Children with Iden 100% is 1050
+Number of Children with Iden < 100 and >=99 is 540
+Number of Children with Iden < 99 and >=97 is 400
+Number of Children with Iden < 97 is 2984
