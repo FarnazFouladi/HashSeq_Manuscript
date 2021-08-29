@@ -15,6 +15,7 @@
 #libraries
 library(scattermore)
 library(Hmisc)
+library(dplyr)
 
 datasets<-c("china","RYGB","autism","vaginal","soil","MMC")
 

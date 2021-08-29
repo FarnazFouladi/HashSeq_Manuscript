@@ -14,6 +14,7 @@
 #Libraries
 library(scattermore)
 library(Hmisc)
+library(dplyr)
 
 datasets<-c("china","RYGB","autism","vaginal","soil","MMC")
 bestP<-c(0.00015,0.0001,0.0001,0.00005,0.00015,0.0001)
