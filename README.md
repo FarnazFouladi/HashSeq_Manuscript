@@ -9,3 +9,5 @@ This repository includes scripts for analyses of the manuscript
 2. Run codes/figures/coalesceFiles.R
 
 3. Run the rest of R codes in the **codes/figures** directory as well as **codes/blast/blast.R**.
+
+DOI: 10.5281/zenodo.5501928
